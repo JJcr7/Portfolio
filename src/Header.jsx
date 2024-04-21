@@ -8,7 +8,7 @@ const Header = () => {
   return (
     <header className="header">
       {/* Logo element (replace with your logo) */}
-      <div className="logo">Your Logo</div>
+      <div className="logo">JJ</div>
 
       {/* Navigation links */}
       <nav className="navigation">

@@ -72,7 +72,7 @@ return(
            <p style={{color:'White'}} className="PortfolioPageDetails">
             Thriving in pressure situations, I excel at maintaining composure and delivering results under tight deadlines.
 Easily adaptable to new environments, I quickly learn new technologies and integrate seamlessly into existing teams.
-Passionate about sharing knowledge and supporting my team. I readily assist colleagues and take initiative to guide them whenever needed. (Provide concrete examples to showcase your leadership qualities)
+Passionate about sharing knowledge and supporting my team. I readily assist colleagues and take initiative to guide them whenever needed.
 Strong communication skills enable me to clearly articulate ideas, collaborate effectively, and build positive relationships with stakeholders.
             </p>
             
@@ -86,9 +86,9 @@ Strong communication skills enable me to clearly articulate ideas, collaborate e
             <p style={{color:'White'}} className="PortfolioPageDetails">
             When I'm not writing code, you can find me:
 
-Leading my football team to victory! I've won numerous trophies and relish the challenge of strategizing and motivating my teammates. (Emphasize your leadership skills further here)
+Leading my football team to victory! I've won numerous trophies and relish the challenge of strategizing and motivating my teammates.
 Exploring new horizons. I'm an avid reader and love venturing out to discover hidden gems and broaden my perspective.
-Always learning and growing. I dedicate an hour daily to learning new languages or honing my existing skills. (Highlight your thirst for knowledge and continuous improvement)
+Always learning and growing. I dedicate an hour daily to learning new languages or honing my existing skills.
             </p>
             <img className="player" src="/football.jpeg" alt="" />
             </div>
