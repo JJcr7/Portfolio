@@ -1,0 +1,92 @@
+.header {
+    display: flex; /* Horizontal layout for navigation links */
+    justify-content: space-between; /* Distribute elements evenly */
+    align-items: center; /* Vertically align logo and nav */
+    padding-top: 1%; /* Add some padding for spacing */
+    padding-bottom: 1%;
+    background-color: rgba(0, 0, 0, 0.5); /* Set a background color */
+    backdrop-filter: blur(10px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 10;
+
+    @media (min-width: 1025px) {
+    }
+  
+    @media (min-width: 912px) and (max-width: 1024px){
+    }
+  
+    @media (min-width: 831px) and (max-width: 911px){
+    }
+  
+    @media (min-width: 541px) and (max-width: 830px) {
+    }
+  
+    @media (min-width: 481px) and (max-width: 540px) {
+      font-size: 12px;
+    }
+  
+    @media (min-width: 412px) and (max-width: 480px) {
+      font-size: 10px;
+    }
+  
+    @media (min-width: 281px) and (max-width: 411px) {
+      font-size: 7px;
+    }
+  
+    @media (max-width: 280px) {
+      font-size: 5px;
+    }
+    
+  }
+  
+  /* .logo { */
+    /* Style your logo element here */
+  /* } */
+  
+  .navigation {
+    display: flex; /* Container for navigation links */
+  }
+  
+  .nav-link {
+    text-decoration: none; /* Remove default link underline */
+    color: white; /* Set link color */
+    padding: 0.5rem 1rem; /* Add padding for clickable area */
+    margin-right: 1rem; /* Add spacing between links */
+    font-weight: 400;
+
+  @media (min-width: 1025px) {
+  }
+
+  @media (min-width: 912px) and (max-width: 1024px){
+  }
+
+  @media (min-width: 831px) and (max-width: 911px){
+  }
+
+  @media (min-width: 541px) and (max-width: 830px) {
+  }
+
+  @media (min-width: 481px) and (max-width: 540px) {
+    margin-right: 0px;
+  }
+
+  @media (min-width: 412px) and (max-width: 480px) {
+    margin-right: 0px;
+  }
+
+  @media (min-width: 281px) and (max-width: 411px) {
+    margin-right: 0px;
+  }
+
+  @media (max-width: 280px) {
+    margin-right: 0px;
+  }
+  }
+  
+  .nav-link:hover {
+    color: #007bff; /* Change color on hover */
+  }
+
